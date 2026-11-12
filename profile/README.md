@@ -3,6 +3,7 @@
 A small AI team from Indonesia. We build AI that works in your business, not in a slide deck.
 
 🌐 [halmahera.site](https://halmahera.site)
+
 📅 [Book a call](https://halmahera.site/contact)
 
 ## What we build
